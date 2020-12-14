@@ -51,7 +51,7 @@ public class PROYECTO_PRIMERTRIMESTRE {
 		
                 
 
-  System.out.println("El mapa tiene"  +cimas +"cimas");
-  System.out.println("de las cuales"+masalta+"tienen la maxima altura");
+  	System.out.println("El mapa tiene"  +cimas +"cimas");
+ 	 System.out.println("de las cuales"+masalta+"tienen la maxima altura");
 	}
 }
